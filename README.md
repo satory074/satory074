@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **satory074/satory074** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
