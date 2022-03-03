@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left"> 
+<p align="left">
   <a href="https://github.com/satory074">
     <img height="20" src="https://img.shields.io/github/followers/satory074?label=follow&logo=github&style=flat" />
   </a>
@@ -24,11 +24,11 @@ Here are some ideas to get you started:
     <img height="20" src="https://img.shields.io/twitter/follow/satory074?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="http://twitter.com/satory074">
-    <img height="20" src="https://atcoder-badges.now.sh/api/atcoder/satory074" />
+    <img height="20" src="https://img.shields.io/endpoint?url=https://satory074.github.io/satory074/json/atcoder.json" />
   </a>
 </p>
 
-<p align="left"> 
+<p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satory074&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=satory074&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
