@@ -23,8 +23,8 @@ Here are some ideas to get you started:
   <a href="http://twitter.com/satory074">
     <img height="20" src="https://img.shields.io/twitter/follow/satory074?label=Twitter&logo=twitter&style=flat" />
   </a>
-  <a href="http://twitter.com/satory074">
-    <img height="20" src="https://img.shields.io/endpoint?url=https://satory074.github.io/satory074/json/atcoder.json" />
+  <a href="https://atcoder.jp/users/satory074">
+  <img height="20" src="https://img.shields.io/endpoint?url=https://script.google.com/macros/s/AKfycbx8Xz2XaOWd5ApfsI4wdiIRmd_OR9rQxTIiwS5GuPr3amOVCAHDi3yJRaAZor8HU3Hd7w/exec?user=satory074" />
   </a>
 </p>
 
