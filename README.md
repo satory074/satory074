@@ -1,18 +1,3 @@
-<!--
-**satory074/satory074** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <p align="left">
   <a href="https://github.com/satory074">
     <img height="20" src="https://img.shields.io/github/followers/satory074?label=follow&logo=github&style=flat" />
@@ -23,8 +8,7 @@ Here are some ideas to get you started:
   <a href="http://twitter.com/satory074">
     <img height="20" src="https://img.shields.io/twitter/follow/satory074?label=Twitter&logo=twitter&style=flat" />
   </a>
-  <a href="https://atcoder.jp/users/satory074">
-  <img height="20" src="https://img.shields.io/endpoint?url=https://script.google.com/macros/s/AKfycbx8Xz2XaOWd5ApfsI4wdiIRmd_OR9rQxTIiwS5GuPr3amOVCAHDi3yJRaAZor8HU3Hd7w/exec?user=satory074" />
+  <a href="https://atcoder.jp/users/satory074" target="_blank" title="satory074"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fsatory074" />
   </a>
 </p>
 
