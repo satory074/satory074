@@ -18,6 +18,11 @@
 </p>
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=satory074)](https://git.io/streak-stats)
