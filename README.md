@@ -17,16 +17,10 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=satory074&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
 
-<!--START_SECTION:waka-->
-
-```text
-Python   2 hrs 49 mins   ██████████████████░░░░░░░   71.88 %
-VB       1 hr 3 mins     ██████▓░░░░░░░░░░░░░░░░░░   27.15 %
-VB.NET   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-INI      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-```
-
-<!--END_SECTION:waka-->
+<!-- Wakatime -->
+<img
+  src="https://github.com/satory074/satory074/blob/main/images/stat.svg"
+  alt="satory074 Wakatime Activity"
+/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=satory074)](https://git.io/streak-stats)
