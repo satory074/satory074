@@ -44,6 +44,8 @@
 ----
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-312%20hrs-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -66,6 +68,11 @@ discordbot_chatgpt       0 secs              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 💻 Operating System: 
 Mac                      30 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/satory074/satory074/main/assets/bar_graph.png)
+
 
 <!--END_SECTION:waka-->
 
