@@ -1,7 +1,4 @@
 <p align="left">
-  <a href="https://github.com/satory074">
-    <img height="20" src="https://img.shields.io/github/followers/satory074?label=follow&logo=github&style=flat" />
-  </a>
   <a href="https://github.com/satory074/satory074/">
     <img src="https://komarev.com/ghpvc/?username=satory074" alt="satory074" />
   </a>
@@ -17,9 +14,36 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satory074&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-312%20hrs-blue)
+----
 
+# Repositories
+
+## Bot
+- [discord-bot-beauty](https://github.com/satory074/discord-bot-beauty)
+- [aws_event_notification](https://github.com/satory074/aws_event_notification)
+
+## GAS
+- [AtCoderShojin](https://github.com/satory074/AtCoderShojin)
+- [discord_result_post](https://github.com/satory074/discord_result_post)
+- [reminder4discord](https://github.com/satory074/reminder4discord)
+- [AtCoder_GoogleCalendar](https://github.com/satory074/AtCoder_GoogleCalendar)
+
+## Sample
+- [discordbot_chatgpt_sample](https://github.com/satory074/discordbot_chatgpt_sample)
+- [aws_to_discord_sample](https://github.com/satory074/awscost_to_discord_sample)
+
+## Research
+- [cside](https://github.com/satory074/cside)
+
+## Other
+- [oden](https://github.com/satory074/oden)
+- [dotfiles](https://github.com/satory074/dotfiles)
+- [Zenn-article](https://github.com/satory074/Zenn-article)
+
+
+----
+
+<!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -42,11 +66,6 @@ discordbot_chatgpt       0 secs              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 💻 Operating System: 
 Mac                      30 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/satory074/satory074/main/assets/bar_graph.png)
-
 
 <!--END_SECTION:waka-->
 
