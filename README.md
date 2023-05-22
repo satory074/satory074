@@ -27,6 +27,7 @@
 - [discord_result_post](https://github.com/satory074/discord_result_post)
 - [reminder4discord](https://github.com/satory074/reminder4discord)
 - [AtCoder_GoogleCalendar](https://github.com/satory074/AtCoder_GoogleCalendar)
+- [android_notification_to_slack](https://github.com/satory074/android_notification_to_slack)
 
 ## Sample
 - [discordbot_chatgpt_sample](https://github.com/satory074/discordbot_chatgpt_sample)
