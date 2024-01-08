@@ -46,7 +46,7 @@
 ----
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-572%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-572%20hrs%2046%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -54,8 +54,7 @@
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Python                   19 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.47 % 
-Other                    0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.53 % 
+Python                   19 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 🔥 Editors: 
 VS Code                  19 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
