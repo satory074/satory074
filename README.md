@@ -23,6 +23,7 @@
 - [aws_event_notification](https://github.com/satory074/aws_event_notification)
 
 ## GAS
+- [XtoBluesky](https://github.com/satory074/XtoBluesky)
 - [atcoder_streak_post](https://github.com/satory074/atcoder_streak_post)
 - [AtCoderShojin](https://github.com/satory074/AtCoderShojin)
 - [discord_result_post](https://github.com/satory074/discord_result_post)
