@@ -48,7 +48,7 @@
 ----
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-822%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-822%20hrs%2013%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
